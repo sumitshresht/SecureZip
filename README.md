@@ -1,5 +1,6 @@
 # 📦 **SecureZip — Java File Encryption, Compression & Integrity Library**
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sumitshresht/SecureZip.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.sumitshresht/SecureZip)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Java](https://img.shields.io/badge/Java-8+-blue.svg)
 ![JUnit](https://img.shields.io/badge/Tested-JUnit5-brightgreen)
@@ -46,7 +47,6 @@ dependencies {
 }
 ```
 
-*(Publishing to Maven Central is optional — this is a placeholder.)*
 
 ---
 
